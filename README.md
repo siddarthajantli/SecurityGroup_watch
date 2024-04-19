@@ -12,7 +12,7 @@ Steps to observe modification in SG.
 
 > Navigate to Cloudwatch > Events > Rules then create rule with proper Event pattern and Targets.
 
-Once above configuration is done, we will receive the notification email once changes occured in Security groups.
+Once above configuration is done, we will receive the notification email, in case of any changes occured in Security groups.
 Cloud Trail is global service. It will start captchuring the API across regions. 
 
 https://docs.aws.amazon.com/awscloudtrail/latest/userguide/how-cloudtrail-works.html 
